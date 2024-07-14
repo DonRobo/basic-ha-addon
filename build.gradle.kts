@@ -60,7 +60,7 @@ jib {
                 "io.hass.name" to "basic-ha-addon",
                 "io.hass.version" to version.toString(),
                 "io.hass.type" to "addon",
-                "io.hass.arch" to "arm64|amd64|aarch64",
+                "io.hass.arch" to "amd64|armv7|aarch64",
             )
         )
     }
