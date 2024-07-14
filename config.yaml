@@ -5,8 +5,8 @@ description: >-
   Basic JVM based HA addon
 arch:
   - amd64
-  - arm
-  - arm64
+  - armv7
+  - aarch64
 url: "https://github.com/DonRobo/basic-ha-addon"
 ports:
   8080/tcp: 8080
