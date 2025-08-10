@@ -1,6 +1,6 @@
 plugins {
     kotlin("jvm") version "2.0.20"
-    id("io.ktor.plugin") version "2.3.12"
+    id("io.ktor.plugin") version "2.3.13"
     id("com.google.cloud.tools.jib") version "3.4.3"
 }
 
